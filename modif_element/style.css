@@ -1,0 +1,11 @@
+img {
+    width:35%;
+}
+
+.border {
+    border:solid 15px black;
+}
+
+.noirEtBlanc {
+    filter:grayscale(100%);
+}
